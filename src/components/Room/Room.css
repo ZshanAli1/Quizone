@@ -1,0 +1,32 @@
+.room {
+  text-align: center;
+  margin: 20px;
+  height: 200px;
+  border: solid 5px black;
+}
+
+.btn {
+  margin: 10px 10px;
+}
+
+.dark {
+  background-color: black;
+}
+.temp {
+  text-align: center;
+  margin: 20px;
+}
+.textt {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.incTemp,
+.decTemp {
+  margin: 10px 10px;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
